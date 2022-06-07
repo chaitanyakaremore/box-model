@@ -1,0 +1,11 @@
+body{
+background-color: rgb(149, 237, 237);
+}
+img{
+margin: 10px;
+height: 200px;
+width: 200px;
+padding: 10px;
+border: 5px solid black ;
+border-radius:120px; 
+}
